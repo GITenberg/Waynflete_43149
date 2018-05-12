@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42030
     wikipedia: https://en.wikipedia.org/wiki/Christabel_Rose_Coleridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43149#Waynflete
 gutenberg_issued: '2013-07-08'
 gutenberg_type: Text
 identifiers:
